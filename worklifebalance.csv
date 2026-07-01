@@ -1,0 +1,201 @@
+Age,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField,EnvironmentSatisfaction,Gender,HourlyRate,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,MonthlyRate,NumCompaniesWorked,OverTime,AverageOTperWeek,PercentSalaryHikeLastYear,PerformanceRating,HighPerformer,RelationshipSatisfaction,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,Attrition
+41,Travel_Rarely,1102,Sales,1,College,Life Sciences,Medium,Female,94,2,Sales Executive,Very high,Single,5993,19479,8,Yes,12,11,Excellent,No,Low,8,0,Poor,6,Yes
+49,Travel_Frequently,279,Research & Development,8,Below College,Life Sciences,High,Male,61,2,Research Scientist,Medium,Married,5130,24907,1,No,3,23,Outstanding,No,Very high,10,3,Excellent,10,No
+37,Travel_Rarely,1373,Research & Development,2,College,Other,Very High,Male,92,1,Laboratory Technician,High,Single,2090,2396,6,Yes,10,15,Excellent,No,Medium,7,3,Excellent,0,Yes
+33,Travel_Frequently,1392,Research & Development,3,Masters,Life Sciences,Very High,Female,56,1,Research Scientist,High,Married,2909,23159,1,Yes,14,11,Excellent,No,High,8,3,Excellent,8,No
+27,Travel_Rarely,591,Research & Development,2,Below College,Medical,Low,Male,40,1,Laboratory Technician,Medium,Married,3468,16632,9,No,5,12,Excellent,No,Very high,6,3,Excellent,2,No
+32,Travel_Frequently,1005,Research & Development,2,College,Life Sciences,Very High,Male,79,1,Laboratory Technician,Very high,Single,3068,11864,0,No,3,13,Excellent,No,High,8,2,Good,7,No
+59,Travel_Rarely,1324,Research & Development,3,Bachelor,Medical,High,Female,81,1,Laboratory Technician,Low,Married,2670,9964,4,Yes,11,20,Outstanding,No,Low,12,3,Good,1,No
+30,Travel_Rarely,1358,Research & Development,24,Below College,Life Sciences,Very High,Male,67,1,Laboratory Technician,High,Divorced,2693,13335,1,No,4,22,Outstanding,No,Medium,1,2,Excellent,1,No
+38,Travel_Frequently,216,Research & Development,23,Bachelor,Life Sciences,Very High,Male,44,3,Manufacturing Director,High,Single,9526,8787,0,No,4,21,Outstanding,No,Medium,10,2,Excellent,9,No
+36,Travel_Rarely,1299,Research & Development,27,Bachelor,Medical,High,Male,94,2,Healthcare Representative,High,Married,5237,16577,6,No,4,13,Excellent,No,Medium,17,3,Good,7,No
+35,Travel_Rarely,809,Research & Development,16,Bachelor,Medical,Low,Male,84,1,Laboratory Technician,Medium,Married,2426,16479,0,No,3,13,Excellent,No,High,6,5,Excellent,5,No
+29,Travel_Rarely,153,Research & Development,15,College,Life Sciences,Very High,Female,49,2,Laboratory Technician,High,Single,4193,12682,0,Yes,10,12,Excellent,No,Very high,10,3,Excellent,9,No
+31,Travel_Rarely,670,Research & Development,26,Below College,Life Sciences,Low,Male,31,1,Research Scientist,High,Divorced,2911,15170,1,No,3,17,Excellent,No,Very high,5,1,Good,5,No
+34,Travel_Rarely,1346,Research & Development,19,College,Medical,Medium,Male,93,1,Laboratory Technician,Very high,Divorced,2661,8758,0,No,3,11,Excellent,No,High,3,2,Excellent,2,No
+28,Travel_Rarely,103,Research & Development,24,Bachelor,Life Sciences,High,Male,50,1,Laboratory Technician,High,Single,2028,12947,5,Yes,12,14,Excellent,Yes,Medium,6,4,Excellent,4,Yes
+29,Travel_Rarely,1389,Research & Development,21,Masters,Life Sciences,Medium,Female,51,3,Manufacturing Director,Low,Divorced,9980,10195,1,No,5,11,Excellent,Yes,High,10,1,Excellent,10,No
+32,Travel_Rarely,334,Research & Development,5,College,Life Sciences,Low,Male,80,1,Research Scientist,Medium,Divorced,3298,15053,0,Yes,11,12,Excellent,Yes,Very high,7,5,Good,6,No
+22,Non-Travel,1123,Research & Development,16,College,Medical,Very High,Male,96,1,Laboratory Technician,Very high,Divorced,2935,7324,1,Yes,10,13,Excellent,Yes,Medium,1,2,Good,1,No
+53,Travel_Rarely,1219,Sales,2,Masters,Life Sciences,Low,Female,78,4,Manager,Very high,Married,15427,22021,2,No,5,16,Excellent,Yes,High,31,3,Excellent,25,No
+38,Travel_Rarely,371,Research & Development,2,Bachelor,Life Sciences,Very High,Male,45,1,Research Scientist,Very high,Single,3944,4306,5,Yes,10,11,Excellent,Yes,High,6,3,Excellent,3,No
+24,Non-Travel,673,Research & Development,11,College,Other,Low,Female,96,2,Manufacturing Director,High,Divorced,4011,8232,0,No,4,18,Excellent,Yes,Very high,5,5,Good,4,No
+36,Travel_Rarely,1218,Sales,9,Masters,Life Sciences,High,Male,82,1,Sales Representative,Low,Single,3407,6986,7,No,4,23,Outstanding,Yes,Medium,10,4,Excellent,5,Yes
+34,Travel_Rarely,419,Research & Development,7,Masters,Life Sciences,Low,Female,53,3,Research Director,Medium,Single,11994,21293,0,No,3,11,Excellent,Yes,High,13,4,Excellent,12,No
+21,Travel_Rarely,391,Research & Development,15,College,Life Sciences,High,Male,96,1,Research Scientist,Very high,Single,1232,19281,1,No,3,14,Excellent,Yes,Very high,0,6,Excellent,0,No
+34,Travel_Rarely,699,Research & Development,6,Below College,Medical,Medium,Male,83,1,Research Scientist,Low,Single,2960,17102,2,No,3,11,Excellent,Yes,High,8,2,Excellent,4,Yes
+53,Travel_Rarely,1282,Research & Development,5,Bachelor,Other,High,Female,58,5,Manager,High,Divorced,19094,10735,4,No,4,11,Excellent,Yes,Very high,26,3,Good,14,No
+32,Travel_Frequently,1125,Research & Development,16,Below College,Life Sciences,Medium,Female,72,1,Research Scientist,Low,Single,3919,4681,1,Yes,11,22,Outstanding,Yes,Medium,10,5,Excellent,10,Yes
+42,Travel_Rarely,691,Sales,8,Masters,Marketing,High,Male,48,2,Sales Executive,Medium,Married,6825,21173,0,No,3,11,Excellent,Yes,Very high,10,2,Excellent,9,No
+44,Travel_Rarely,477,Research & Development,7,Masters,Medical,Low,Female,42,3,Healthcare Representative,Very high,Married,10248,2094,3,No,5,14,Excellent,Yes,Very high,24,4,Excellent,22,No
+46,Travel_Rarely,705,Sales,2,Masters,Marketing,Medium,Female,83,5,Manager,Low,Single,18947,22822,3,No,3,12,Excellent,Yes,Very high,22,2,Good,2,No
+33,Travel_Rarely,924,Research & Development,2,Bachelor,Medical,High,Male,78,1,Laboratory Technician,Very high,Single,2496,6670,4,No,4,11,Excellent,Yes,Very high,7,3,Excellent,1,No
+44,Travel_Rarely,1459,Research & Development,10,Masters,Other,Very High,Male,41,2,Healthcare Representative,Very high,Married,6465,19121,2,Yes,10,13,Excellent,Yes,Very high,9,5,Outstanding,4,No
+30,Travel_Rarely,125,Research & Development,9,College,Medical,Very High,Male,83,1,Laboratory Technician,High,Single,2206,16117,1,No,5,13,Excellent,No,Low,10,5,Excellent,10,No
+39,Travel_Rarely,895,Sales,5,Bachelor,Technical Degree,Very High,Male,56,2,Sales Representative,Very high,Married,2086,3335,3,No,3,14,Excellent,No,High,19,6,Outstanding,1,Yes
+24,Travel_Rarely,813,Research & Development,1,Bachelor,Medical,Medium,Male,61,1,Research Scientist,Very high,Married,2293,3020,2,Yes,15,16,Excellent,No,Low,6,2,Good,2,Yes
+43,Travel_Rarely,1273,Research & Development,2,College,Medical,Very High,Female,72,1,Research Scientist,High,Divorced,2645,21923,1,No,4,12,Excellent,No,Very high,6,3,Good,5,No
+50,Travel_Rarely,869,Sales,3,College,Marketing,Low,Male,86,1,Sales Representative,High,Married,2683,3810,1,Yes,10,14,Excellent,No,High,3,2,Excellent,3,Yes
+35,Travel_Rarely,890,Sales,2,Bachelor,Marketing,Very High,Female,97,1,Sales Representative,Very high,Married,2014,9687,1,No,4,13,Excellent,No,Low,2,3,Excellent,2,No
+36,Travel_Rarely,852,Research & Development,5,Masters,Life Sciences,Medium,Female,82,1,Research Scientist,Low,Married,3419,13072,9,Yes,12,14,Excellent,No,Very high,6,3,Outstanding,1,No
+33,Travel_Frequently,1141,Sales,1,Bachelor,Life Sciences,High,Female,42,2,Sales Executive,Low,Married,5376,3193,2,No,4,19,Excellent,No,Low,10,3,Excellent,5,No
+35,Travel_Rarely,464,Research & Development,4,College,Other,High,Male,75,1,Laboratory Technician,Very high,Divorced,1951,10910,1,No,5,12,Excellent,No,High,1,3,Excellent,1,No
+27,Travel_Rarely,1240,Research & Development,2,Masters,Life Sciences,Very High,Female,33,1,Laboratory Technician,Low,Divorced,2341,19715,1,No,4,13,Excellent,No,Very high,1,6,Excellent,1,No
+26,Travel_Rarely,1357,Research & Development,25,Bachelor,Life Sciences,Low,Male,48,1,Laboratory Technician,High,Single,2293,10558,1,No,5,12,Excellent,No,High,1,2,Good,1,Yes
+27,Travel_Frequently,994,Sales,8,Bachelor,Life Sciences,Very High,Male,37,3,Sales Executive,High,Single,8726,2975,1,No,3,15,Excellent,No,Very high,9,0,Excellent,9,No
+30,Travel_Frequently,721,Research & Development,1,College,Medical,High,Female,58,2,Laboratory Technician,Very high,Single,4011,10781,1,No,4,23,Outstanding,No,Very high,12,2,Excellent,12,No
+41,Travel_Rarely,1360,Research & Development,12,Bachelor,Technical Degree,Medium,Female,49,5,Research Director,High,Married,19545,16280,1,No,4,12,Excellent,No,Very high,23,0,Excellent,22,Yes
+34,Non-Travel,1065,Sales,23,Masters,Marketing,Medium,Male,72,2,Sales Executive,High,Single,4568,10034,0,No,3,20,Outstanding,No,High,10,2,Excellent,9,No
+37,Travel_Rarely,408,Research & Development,19,College,Life Sciences,Medium,Male,73,1,Research Scientist,Medium,Married,3022,10227,4,No,5,21,Outstanding,No,Low,8,1,Excellent,1,No
+46,Travel_Frequently,1211,Sales,5,Masters,Marketing,Low,Male,98,2,Sales Executive,Very high,Single,5772,20445,4,Yes,14,21,Outstanding,No,High,14,4,Excellent,9,No
+35,Travel_Rarely,1229,Research & Development,8,Below College,Life Sciences,Very High,Male,36,1,Laboratory Technician,Very high,Married,2269,4892,1,No,4,19,Excellent,No,Very high,1,2,Excellent,1,No
+48,Travel_Rarely,626,Research & Development,1,College,Life Sciences,Low,Male,98,3,Laboratory Technician,High,Single,5381,19294,9,Yes,13,13,Excellent,No,Very high,23,2,Excellent,1,Yes
+28,Travel_Rarely,1434,Research & Development,5,Masters,Technical Degree,High,Male,50,1,Laboratory Technician,High,Single,3441,11179,1,Yes,12,13,Excellent,No,High,2,3,Good,2,Yes
+44,Travel_Rarely,1488,Sales,1,PhD,Marketing,Medium,Female,75,2,Sales Executive,Low,Divorced,5454,4009,5,Yes,12,21,Outstanding,No,High,9,2,Good,4,No
+35,Non-Travel,1097,Research & Development,11,College,Medical,High,Male,79,3,Healthcare Representative,Low,Married,9884,8302,2,Yes,12,13,Excellent,No,High,10,3,Excellent,4,No
+26,Travel_Rarely,1443,Sales,23,Bachelor,Marketing,High,Female,47,2,Sales Executive,Very high,Married,4157,21436,7,Yes,13,19,Excellent,No,High,5,2,Good,2,No
+33,Travel_Frequently,515,Research & Development,1,College,Life Sciences,Low,Female,98,3,Research Director,Very high,Single,13458,15146,1,Yes,12,12,Excellent,No,High,15,1,Excellent,15,No
+35,Travel_Frequently,853,Sales,18,PhD,Life Sciences,Medium,Male,71,3,Sales Executive,Low,Married,9069,11031,1,No,5,22,Outstanding,No,Very high,9,3,Good,9,No
+35,Travel_Rarely,1142,Research & Development,23,Masters,Medical,High,Female,30,1,Laboratory Technician,Low,Married,4014,16002,3,Yes,13,15,Excellent,No,High,4,3,Excellent,2,No
+31,Travel_Rarely,655,Research & Development,7,Masters,Life Sciences,Very High,Male,48,2,Laboratory Technician,Very high,Divorced,5915,9528,3,No,5,22,Outstanding,No,Very high,10,3,Good,7,No
+37,Travel_Rarely,1115,Research & Development,1,Masters,Life Sciences,Low,Male,51,2,Manufacturing Director,High,Divorced,5993,2689,1,No,3,18,Excellent,No,High,7,2,Outstanding,7,No
+32,Travel_Rarely,427,Research & Development,1,Bachelor,Medical,Low,Male,33,2,Manufacturing Director,Very high,Married,6162,10877,1,Yes,15,22,Outstanding,No,Medium,9,3,Excellent,9,No
+38,Travel_Frequently,653,Research & Development,29,PhD,Life Sciences,Very High,Female,50,2,Laboratory Technician,Very high,Single,2406,5456,1,No,5,11,Excellent,No,Very high,10,2,Excellent,10,No
+50,Travel_Rarely,989,Research & Development,7,College,Medical,Medium,Female,43,5,Research Director,High,Divorced,18740,16701,5,Yes,12,12,Excellent,No,Very high,29,2,Good,27,No
+59,Travel_Rarely,1435,Sales,25,Bachelor,Life Sciences,Low,Female,99,3,Sales Executive,Low,Single,7637,2354,7,No,4,11,Excellent,No,Very high,28,3,Good,21,No
+36,Travel_Rarely,1223,Research & Development,8,Bachelor,Technical Degree,High,Female,59,3,Healthcare Representative,High,Divorced,10096,8202,1,No,5,13,Excellent,No,Medium,17,2,Excellent,17,No
+55,Travel_Rarely,836,Research & Development,8,Bachelor,Medical,Very High,Female,33,4,Manager,High,Divorced,14756,19730,2,Yes,14,14,Excellent,No,High,21,2,Excellent,5,No
+36,Travel_Frequently,1195,Research & Development,11,Bachelor,Life Sciences,Medium,Male,95,2,Manufacturing Director,Medium,Single,6499,22656,1,No,3,13,Excellent,No,High,6,3,Excellent,6,No
+45,Travel_Rarely,1339,Research & Development,7,Bachelor,Life Sciences,Medium,Male,59,3,Research Scientist,Low,Divorced,9724,18787,2,No,3,17,Excellent,No,High,25,2,Excellent,1,No
+35,Travel_Frequently,664,Research & Development,1,Bachelor,Medical,Medium,Male,79,1,Research Scientist,Low,Married,2194,5868,4,No,5,13,Excellent,No,Very high,5,2,Good,3,No
+36,Travel_Rarely,318,Research & Development,9,Bachelor,Medical,Very High,Male,79,1,Research Scientist,High,Married,3388,21777,0,Yes,12,17,Excellent,No,Low,2,0,Good,1,Yes
+59,Travel_Frequently,1225,Sales,1,Below College,Life Sciences,Low,Female,57,2,Sales Executive,High,Single,5473,24668,7,No,3,11,Excellent,No,Very high,20,2,Good,4,No
+29,Travel_Rarely,1328,Research & Development,2,Bachelor,Life Sciences,High,Male,76,1,Research Scientist,Medium,Married,2703,4956,0,No,4,23,Outstanding,No,Very high,6,3,Excellent,5,No
+31,Travel_Rarely,1082,Research & Development,1,Masters,Medical,High,Male,87,1,Research Scientist,Medium,Single,2501,18775,1,No,3,17,Excellent,No,Medium,1,4,Excellent,1,No
+32,Travel_Rarely,548,Research & Development,1,Bachelor,Life Sciences,Medium,Male,66,2,Research Scientist,Medium,Married,6220,7346,1,No,3,17,Excellent,No,Medium,10,3,Excellent,10,No
+36,Travel_Rarely,132,Research & Development,6,Bachelor,Life Sciences,Medium,Female,55,1,Laboratory Technician,Very high,Married,3038,22002,3,No,4,12,Excellent,No,Medium,5,3,Excellent,1,No
+31,Travel_Rarely,746,Research & Development,8,Masters,Life Sciences,High,Female,61,2,Manufacturing Director,Very high,Single,4424,20682,1,No,4,23,Outstanding,No,Very high,11,2,Excellent,11,No
+35,Travel_Rarely,776,Sales,1,Masters,Marketing,High,Male,32,2,Sales Executive,Low,Single,4312,23016,0,No,5,14,Excellent,No,Medium,16,2,Excellent,15,No
+45,Travel_Rarely,193,Research & Development,6,Masters,Other,Very High,Male,52,3,Research Director,Low,Married,13245,15067,4,Yes,10,14,Excellent,No,Medium,17,3,Outstanding,0,No
+37,Travel_Rarely,397,Research & Development,7,Masters,Medical,Low,Male,30,3,Research Director,High,Single,13664,25258,4,No,3,13,Excellent,No,Low,16,3,Outstanding,5,No
+46,Travel_Rarely,945,Human Resources,5,College,Medical,Medium,Male,80,2,Human Resources,Medium,Divorced,5021,10425,8,Yes,10,22,Outstanding,No,Very high,16,2,Excellent,4,No
+30,Travel_Rarely,852,Research & Development,1,Below College,Life Sciences,Very High,Male,55,2,Laboratory Technician,Very high,Married,5126,15998,1,Yes,12,12,Excellent,No,High,10,1,Good,10,No
+35,Travel_Rarely,1214,Research & Development,1,Bachelor,Medical,Medium,Male,30,1,Research Scientist,High,Single,2859,26278,1,No,4,18,Excellent,No,Low,6,3,Excellent,6,No
+55,Travel_Rarely,111,Sales,1,College,Life Sciences,Low,Male,70,3,Sales Executive,Very high,Married,10239,18092,3,No,4,14,Excellent,No,Very high,24,4,Excellent,1,No
+38,Non-Travel,573,Research & Development,6,Bachelor,Medical,Medium,Female,79,2,Research Scientist,Very high,Divorced,5329,15717,7,Yes,15,12,Excellent,No,Very high,17,3,Excellent,13,No
+34,Travel_Rarely,1153,Research & Development,1,College,Medical,Low,Male,94,2,Manufacturing Director,Medium,Married,4325,17736,1,No,3,15,Excellent,No,High,5,2,Excellent,5,No
+56,Travel_Rarely,1400,Research & Development,7,Bachelor,Life Sciences,Very High,Male,49,3,Manufacturing Director,Very high,Single,7260,21698,4,No,4,11,Excellent,No,Low,37,3,Good,6,No
+23,Travel_Rarely,541,Sales,2,Below College,Technical Degree,High,Male,62,1,Sales Representative,Low,Divorced,2322,9518,3,No,3,13,Excellent,No,High,3,3,Excellent,0,No
+51,Travel_Rarely,432,Research & Development,9,Masters,Life Sciences,Very High,Male,96,1,Laboratory Technician,Very high,Married,2075,18725,3,No,3,23,Outstanding,No,Medium,10,4,Excellent,4,No
+30,Travel_Rarely,288,Research & Development,2,Bachelor,Life Sciences,High,Male,99,2,Healthcare Representative,Very high,Married,4152,15830,1,No,4,19,Excellent,No,Low,11,3,Excellent,11,No
+46,Travel_Rarely,669,Sales,9,College,Medical,High,Male,64,3,Sales Executive,Very high,Single,9619,13596,1,No,3,16,Excellent,No,Very high,9,3,Excellent,9,Yes
+40,Travel_Frequently,530,Research & Development,1,Masters,Life Sciences,High,Male,78,4,Healthcare Representative,Medium,Married,13503,14115,1,No,3,22,Outstanding,No,Very high,22,3,Good,22,No
+51,Travel_Rarely,632,Sales,21,Masters,Marketing,High,Male,71,2,Sales Executive,Very high,Single,5441,8423,0,Yes,12,22,Outstanding,No,Very high,11,2,Poor,10,No
+30,Travel_Rarely,1334,Sales,4,College,Medical,High,Female,63,2,Sales Executive,Medium,Divorced,5209,19760,1,Yes,15,12,Excellent,No,Medium,11,4,Good,11,No
+46,Travel_Frequently,638,Research & Development,1,Bachelor,Medical,High,Male,40,3,Healthcare Representative,Low,Married,10673,3142,2,Yes,11,13,Excellent,No,High,21,5,Good,10,No
+32,Travel_Rarely,1093,Sales,6,Masters,Medical,Medium,Male,87,2,Sales Executive,High,Single,5010,24301,1,No,3,16,Excellent,No,Low,12,0,Excellent,11,No
+54,Travel_Rarely,1217,Research & Development,2,Masters,Technical Degree,Low,Female,60,3,Research Director,High,Married,13549,24001,9,No,3,12,Excellent,No,Low,16,5,Poor,4,No
+24,Travel_Rarely,1353,Sales,3,College,Other,Low,Female,33,2,Sales Executive,High,Married,4999,17519,0,No,3,21,Outstanding,No,Low,4,2,Good,3,No
+28,Non-Travel,120,Sales,4,Bachelor,Medical,Medium,Male,43,2,Sales Executive,High,Married,4221,8863,1,No,3,15,Excellent,No,Medium,5,3,Outstanding,5,No
+58,Travel_Rarely,682,Sales,10,Masters,Medical,Very High,Male,37,4,Sales Executive,High,Single,13872,24409,0,No,5,13,Excellent,No,High,38,1,Good,37,No
+44,Non-Travel,489,Research & Development,23,Bachelor,Medical,Medium,Male,67,2,Laboratory Technician,Medium,Married,2042,25043,4,No,3,12,Excellent,No,High,17,3,Outstanding,3,No
+37,Travel_Rarely,807,Human Resources,6,Masters,Human Resources,High,Male,63,1,Human Resources,Low,Divorced,2073,23648,4,Yes,11,22,Outstanding,No,Very high,7,3,Excellent,3,Yes
+32,Travel_Rarely,827,Research & Development,1,Below College,Life Sciences,Very High,Male,71,1,Research Scientist,Low,Single,2956,15178,1,No,3,13,Excellent,No,Very high,1,2,Excellent,1,No
+20,Travel_Frequently,871,Research & Development,6,Bachelor,Life Sciences,Very High,Female,66,1,Laboratory Technician,Very high,Single,2926,19783,1,Yes,10,18,Excellent,No,Medium,1,5,Excellent,1,Yes
+34,Travel_Rarely,665,Research & Development,6,Masters,Other,Low,Female,41,2,Research Scientist,High,Single,4809,12482,1,No,5,14,Excellent,No,High,16,3,Excellent,16,No
+37,Non-Travel,1040,Research & Development,2,College,Life Sciences,High,Male,100,2,Healthcare Representative,Very high,Divorced,5163,15850,5,No,3,14,Excellent,No,Very high,17,2,Outstanding,1,No
+59,Non-Travel,1420,Human Resources,2,Masters,Human Resources,High,Female,32,5,Manager,Very high,Married,18844,21922,9,No,3,21,Outstanding,No,Very high,30,3,Excellent,3,No
+50,Travel_Frequently,1115,Research & Development,1,Bachelor,Life Sciences,Low,Female,73,5,Research Director,Medium,Married,18172,9755,3,Yes,11,19,Excellent,No,Low,28,1,Good,8,No
+25,Travel_Rarely,240,Sales,5,Bachelor,Marketing,High,Male,46,2,Sales Executive,High,Single,5744,26959,1,Yes,13,11,Excellent,No,Very high,6,1,Excellent,6,Yes
+25,Travel_Rarely,1280,Research & Development,7,Below College,Medical,Very High,Male,64,1,Research Scientist,Very high,Married,2889,26897,1,No,3,11,Excellent,No,High,2,2,Excellent,2,No
+22,Travel_Rarely,534,Research & Development,15,Bachelor,Medical,Medium,Female,59,1,Laboratory Technician,Very high,Single,2871,23785,1,No,4,15,Excellent,No,High,1,5,Excellent,0,No
+51,Travel_Frequently,1456,Research & Development,1,Masters,Medical,Low,Female,30,3,Healthcare Representative,Low,Single,7484,25796,3,No,3,20,Outstanding,No,High,23,1,Good,13,No
+34,Travel_Frequently,658,Research & Development,7,Bachelor,Life Sciences,Low,Male,66,2,Laboratory Technician,High,Single,6074,22887,1,Yes,15,24,Outstanding,No,Very high,9,3,Excellent,9,Yes
+54,Non-Travel,142,Human Resources,26,Bachelor,Human Resources,Very High,Female,30,4,Manager,Very high,Single,17328,13871,2,Yes,10,12,Excellent,No,High,23,3,Excellent,5,No
+24,Travel_Rarely,1127,Research & Development,18,Below College,Life Sciences,Medium,Male,52,1,Laboratory Technician,High,Married,2774,13257,0,No,3,12,Excellent,No,High,6,2,Excellent,5,No
+34,Travel_Rarely,1031,Research & Development,6,Masters,Life Sciences,High,Female,45,2,Research Scientist,Medium,Divorced,4505,15000,6,No,5,15,Excellent,No,High,12,3,Excellent,1,No
+37,Travel_Rarely,1189,Sales,3,Bachelor,Life Sciences,High,Male,87,3,Sales Executive,Very high,Single,7428,14506,2,No,5,12,Excellent,No,Low,12,3,Excellent,5,No
+34,Travel_Rarely,1354,Research & Development,5,Bachelor,Medical,High,Female,45,3,Manager,Low,Single,11631,5615,2,No,3,12,Excellent,No,Very high,14,6,Excellent,11,No
+36,Travel_Frequently,1467,Sales,11,College,Technical Degree,Medium,Female,92,3,Sales Executive,Very high,Married,9738,22952,0,No,3,14,Excellent,No,High,10,6,Excellent,9,No
+36,Travel_Rarely,922,Research & Development,3,College,Life Sciences,Low,Female,39,1,Laboratory Technician,Very high,Divorced,2835,2561,5,No,3,22,Outstanding,No,Low,7,2,Excellent,1,No
+43,Travel_Frequently,394,Sales,26,College,Life Sciences,High,Male,92,4,Manager,Very high,Married,16959,19494,1,Yes,14,12,Excellent,No,Very high,25,3,Outstanding,25,No
+30,Travel_Frequently,1312,Research & Development,23,Bachelor,Life Sciences,Low,Male,96,1,Research Scientist,High,Divorced,2613,22310,1,No,3,25,Outstanding,No,High,10,2,Good,10,No
+33,Non-Travel,750,Sales,22,College,Marketing,High,Male,95,2,Sales Executive,Medium,Married,6146,15480,0,No,3,13,Excellent,No,Low,8,2,Outstanding,7,No
+56,Travel_Rarely,441,Research & Development,14,Masters,Life Sciences,Medium,Female,72,1,Research Scientist,Medium,Married,4963,4510,9,Yes,10,18,Excellent,No,Low,7,2,Excellent,5,Yes
+51,Travel_Rarely,684,Research & Development,6,Bachelor,Life Sciences,Low,Male,51,5,Research Director,High,Single,19537,6462,7,No,3,13,Excellent,No,High,23,5,Excellent,20,No
+31,Travel_Rarely,249,Sales,6,Masters,Life Sciences,Medium,Male,76,2,Sales Executive,High,Married,6172,20739,4,Yes,11,18,Excellent,No,Medium,12,3,Good,7,Yes
+26,Travel_Rarely,841,Research & Development,6,Bachelor,Other,High,Female,46,1,Research Scientist,Medium,Married,2368,23300,1,No,5,19,Excellent,No,High,5,3,Good,5,No
+58,Travel_Rarely,147,Research & Development,23,Masters,Medical,Very High,Female,94,3,Healthcare Representative,Very high,Married,10312,3465,1,No,3,12,Excellent,No,Very high,40,3,Good,40,Yes
+19,Travel_Rarely,528,Sales,22,Below College,Marketing,Very High,Male,50,1,Sales Representative,High,Single,1675,26820,1,Yes,14,19,Excellent,No,Very high,0,2,Good,0,Yes
+22,Travel_Rarely,594,Research & Development,2,Below College,Technical Degree,High,Male,100,1,Laboratory Technician,Very high,Married,2523,19299,0,No,5,14,Excellent,No,High,3,2,Excellent,2,No
+49,Travel_Rarely,470,Research & Development,20,Masters,Medical,High,Female,96,2,Manufacturing Director,Low,Married,6567,5549,1,No,3,14,Excellent,No,High,16,2,Good,15,No
+43,Travel_Frequently,957,Research & Development,28,Bachelor,Medical,Medium,Female,72,1,Research Scientist,High,Single,4739,16090,4,No,5,12,Excellent,No,Very high,18,2,Excellent,3,No
+50,Travel_Frequently,809,Sales,12,Bachelor,Marketing,High,Female,77,3,Sales Executive,Very high,Single,9208,6645,4,No,4,11,Excellent,No,Very high,16,3,Excellent,2,No
+31,Travel_Rarely,542,Sales,20,Bachelor,Life Sciences,Medium,Female,71,2,Sales Executive,High,Married,4559,24788,3,Yes,12,11,Excellent,No,High,4,2,Excellent,2,Yes
+41,Travel_Rarely,802,Sales,9,Below College,Life Sciences,High,Male,96,3,Sales Executive,High,Divorced,8189,21196,3,Yes,10,13,Excellent,No,High,12,2,Excellent,9,No
+26,Travel_Rarely,1355,Human Resources,25,Below College,Life Sciences,High,Female,61,1,Human Resources,High,Married,2942,8916,1,No,4,23,Outstanding,No,Very high,8,3,Excellent,8,No
+36,Travel_Rarely,216,Research & Development,6,College,Medical,Medium,Male,84,2,Manufacturing Director,Medium,Divorced,4941,2819,6,No,3,20,Outstanding,No,Very high,7,0,Excellent,3,No
+51,Travel_Frequently,1150,Research & Development,8,Masters,Life Sciences,Low,Male,53,3,Manufacturing Director,Very high,Single,10650,25150,2,No,5,15,Excellent,No,Very high,18,2,Excellent,4,Yes
+39,Travel_Rarely,1329,Sales,4,Masters,Life Sciences,Very High,Female,47,2,Sales Executive,High,Married,5902,14590,4,No,3,14,Excellent,No,High,17,1,Outstanding,15,No
+25,Travel_Rarely,959,Sales,28,Bachelor,Life Sciences,Low,Male,41,2,Sales Executive,High,Married,8639,24835,2,No,3,18,Excellent,No,Very high,6,3,Excellent,2,No
+30,Travel_Rarely,1240,Human Resources,9,Bachelor,Human Resources,High,Male,48,2,Human Resources,Very high,Married,6347,13982,0,Yes,12,19,Excellent,No,Very high,12,2,Poor,11,No
+32,Travel_Rarely,1033,Research & Development,9,Bachelor,Medical,Low,Female,41,1,Laboratory Technician,Low,Single,4200,10224,7,No,3,22,Outstanding,No,Low,10,2,Outstanding,5,Yes
+45,Travel_Rarely,1316,Research & Development,29,Bachelor,Medical,High,Male,83,1,Research Scientist,Very high,Single,3452,9752,5,No,4,13,Excellent,No,Medium,9,2,Good,6,No
+38,Travel_Rarely,364,Research & Development,3,PhD,Technical Degree,Very High,Female,32,2,Research Scientist,High,Single,4317,2302,3,Yes,14,20,Outstanding,No,Medium,19,2,Excellent,3,No
+30,Travel_Rarely,438,Research & Development,18,Bachelor,Life Sciences,Low,Female,75,1,Research Scientist,High,Single,2632,23910,1,No,5,14,Excellent,No,High,5,4,Good,5,No
+32,Travel_Frequently,689,Sales,9,College,Medical,Very High,Male,35,2,Sales Executive,Very high,Divorced,4668,22812,0,No,5,17,Excellent,No,Very high,9,2,Outstanding,8,No
+30,Travel_Rarely,201,Research & Development,5,Bachelor,Technical Degree,Very High,Female,84,1,Research Scientist,Low,Divorced,3204,10415,5,No,5,14,Excellent,No,Very high,8,3,Excellent,3,No
+30,Travel_Rarely,1427,Research & Development,2,Below College,Medical,Medium,Male,35,1,Laboratory Technician,Very high,Single,2720,11162,0,No,5,13,Excellent,No,Very high,6,3,Excellent,5,No
+41,Travel_Frequently,857,Research & Development,10,Bachelor,Life Sciences,Very High,Male,91,4,Manager,Low,Divorced,17181,12888,4,No,5,13,Excellent,No,Medium,21,2,Good,7,No
+41,Travel_Rarely,933,Research & Development,9,Masters,Life Sciences,High,Male,94,1,Laboratory Technician,Low,Married,2238,6961,2,No,4,21,Outstanding,No,Very high,7,2,Excellent,5,No
+19,Travel_Rarely,1181,Research & Development,3,Below College,Medical,Medium,Female,79,1,Laboratory Technician,Medium,Single,1483,16102,1,No,5,14,Excellent,No,Very high,1,3,Excellent,1,No
+40,Travel_Frequently,1395,Research & Development,26,Bachelor,Medical,Medium,Female,54,2,Research Scientist,Medium,Divorced,5605,8504,1,No,4,11,Excellent,No,Low,20,2,Excellent,20,No
+35,Travel_Rarely,662,Sales,1,PhD,Marketing,High,Male,94,3,Sales Executive,Medium,Married,7295,11439,1,No,5,13,Excellent,No,Low,10,3,Excellent,10,No
+53,Travel_Rarely,1436,Sales,6,College,Marketing,Medium,Male,34,2,Sales Representative,High,Married,2306,16047,2,Yes,15,20,Outstanding,No,Very high,13,3,Poor,7,No
+45,Travel_Rarely,194,Research & Development,9,Bachelor,Life Sciences,Medium,Male,60,2,Laboratory Technician,Medium,Divorced,2348,10901,8,No,4,18,Excellent,No,High,20,2,Poor,17,No
+32,Travel_Frequently,967,Sales,8,Bachelor,Marketing,Medium,Female,43,3,Sales Executive,Very high,Single,8998,15589,1,No,3,14,Excellent,No,Very high,9,2,Excellent,9,No
+29,Non-Travel,1496,Research & Development,1,Below College,Technical Degree,Very High,Male,41,2,Manufacturing Director,High,Married,4319,26283,1,No,3,13,Excellent,No,Low,10,1,Excellent,10,No
+51,Travel_Rarely,1169,Research & Development,7,Masters,Medical,Medium,Male,34,2,Manufacturing Director,High,Married,6132,13983,2,No,4,17,Excellent,No,High,10,2,Excellent,1,No
+58,Travel_Rarely,1145,Research & Development,9,Bachelor,Medical,Medium,Female,75,1,Research Scientist,Medium,Married,3346,11873,4,Yes,13,20,Outstanding,No,Medium,9,3,Good,1,No
+40,Travel_Rarely,630,Sales,4,Masters,Marketing,High,Male,67,3,Sales Executive,Very high,Married,10855,8552,7,No,3,11,Excellent,No,Low,15,2,Good,12,No
+34,Travel_Frequently,303,Sales,2,Masters,Marketing,High,Female,75,1,Sales Representative,High,Married,2231,11314,6,No,4,18,Excellent,No,Very high,6,3,Excellent,4,No
+22,Travel_Rarely,1256,Research & Development,19,Below College,Medical,High,Male,80,1,Research Scientist,Very high,Married,2323,11992,1,No,5,24,Outstanding,No,Low,2,6,Excellent,2,No
+27,Non-Travel,691,Research & Development,9,Bachelor,Medical,Very High,Male,57,1,Research Scientist,Medium,Divorced,2024,5970,6,No,5,18,Excellent,No,Very high,6,1,Poor,2,No
+28,Travel_Rarely,440,Research & Development,21,Bachelor,Medical,High,Male,42,1,Research Scientist,Very high,Married,2713,6672,1,No,4,11,Excellent,No,High,5,2,Poor,5,No
+57,Travel_Rarely,334,Research & Development,24,College,Life Sciences,High,Male,83,3,Healthcare Representative,Very high,Divorced,9439,23402,3,Yes,10,16,Excellent,No,Medium,12,2,Poor,5,No
+27,Non-Travel,1450,Research & Development,3,Bachelor,Medical,High,Male,79,1,Research Scientist,High,Divorced,2566,25326,1,Yes,10,15,Excellent,No,Very high,1,2,Good,1,No
+50,Travel_Rarely,1452,Research & Development,11,Bachelor,Life Sciences,High,Female,53,5,Manager,Medium,Single,19926,17053,3,No,4,15,Excellent,No,Medium,21,5,Excellent,5,No
+41,Travel_Rarely,465,Research & Development,14,Bachelor,Life Sciences,Low,Male,56,1,Research Scientist,High,Divorced,2451,4609,4,No,3,12,Excellent,No,Low,13,2,Excellent,9,No
+30,Travel_Rarely,1339,Sales,5,Bachelor,Life Sciences,Medium,Female,41,3,Sales Executive,Very high,Married,9419,8053,2,No,4,12,Excellent,No,High,12,2,Excellent,10,No
+38,Travel_Rarely,702,Sales,1,Masters,Life Sciences,Low,Female,59,2,Sales Executive,Very high,Single,8686,12930,4,No,5,22,Outstanding,No,High,12,2,Outstanding,8,No
+32,Travel_Rarely,120,Research & Development,6,PhD,Life Sciences,High,Male,43,1,Research Scientist,High,Single,3038,12430,3,No,4,20,Outstanding,No,Low,8,2,Excellent,5,No
+27,Travel_Rarely,1157,Research & Development,17,Bachelor,Technical Degree,High,Male,51,1,Research Scientist,Medium,Married,3058,13364,0,Yes,10,16,Excellent,No,Very high,6,3,Good,5,No
+19,Travel_Frequently,602,Sales,1,Below College,Technical Degree,High,Female,100,1,Sales Representative,Low,Single,2325,20989,0,No,3,21,Outstanding,No,Low,1,5,Outstanding,0,Yes
+36,Travel_Frequently,1480,Research & Development,3,College,Medical,Very High,Male,30,1,Laboratory Technician,Medium,Single,2088,15062,4,No,3,12,Excellent,No,High,13,3,Good,8,No
+30,Non-Travel,111,Research & Development,9,Bachelor,Medical,High,Male,66,2,Laboratory Technician,Low,Divorced,3072,11012,1,No,3,11,Excellent,No,High,12,4,Excellent,12,No
+45,Travel_Rarely,1268,Sales,4,College,Life Sciences,High,Female,30,2,Sales Executive,Low,Divorced,5006,6319,4,Yes,13,11,Excellent,No,Low,9,3,Outstanding,5,No
+56,Travel_Rarely,713,Research & Development,8,Bachelor,Life Sciences,High,Female,67,1,Research Scientist,Low,Divorced,4257,13939,4,Yes,14,18,Excellent,No,High,19,3,Excellent,2,No
+33,Travel_Rarely,134,Research & Development,2,Bachelor,Life Sciences,High,Male,90,1,Research Scientist,Very high,Single,2500,10515,0,No,4,14,Excellent,No,Low,4,2,Outstanding,3,No
+19,Travel_Rarely,303,Research & Development,2,Bachelor,Life Sciences,Medium,Male,47,1,Laboratory Technician,Very high,Single,1102,9241,1,No,4,22,Outstanding,No,High,1,3,Good,1,Yes
+46,Travel_Rarely,526,Sales,1,College,Marketing,Medium,Female,92,3,Sales Executive,Low,Divorced,10453,2137,1,No,3,25,Outstanding,No,High,24,2,Excellent,24,No
+38,Travel_Rarely,1380,Research & Development,9,College,Life Sciences,High,Female,75,1,Laboratory Technician,Very high,Single,2288,6319,1,No,4,12,Excellent,No,High,2,3,Excellent,2,No
+31,Travel_Rarely,140,Research & Development,12,Below College,Medical,High,Female,95,1,Research Scientist,Very high,Married,3929,6984,8,Yes,11,23,Outstanding,No,High,7,0,Excellent,4,No
+34,Travel_Rarely,629,Research & Development,27,College,Medical,Very High,Female,95,1,Research Scientist,Medium,Single,2311,5711,2,No,3,15,Excellent,No,Very high,9,3,Excellent,3,No
+41,Travel_Rarely,1356,Sales,20,College,Marketing,Medium,Female,70,1,Sales Representative,Medium,Single,3140,21728,1,Yes,15,22,Outstanding,No,Very high,4,5,Good,4,Yes
+50,Travel_Rarely,328,Research & Development,1,Bachelor,Medical,High,Male,86,1,Laboratory Technician,High,Married,3690,3425,2,No,5,15,Excellent,No,Very high,5,2,Good,3,No
+53,Travel_Rarely,1084,Research & Development,13,College,Medical,Very High,Female,57,2,Manufacturing Director,Low,Divorced,4450,26250,1,No,3,11,Excellent,No,High,5,3,Excellent,4,No
+33,Travel_Rarely,931,Research & Development,14,Bachelor,Medical,Very High,Female,72,1,Research Scientist,Medium,Married,2756,4673,1,No,3,13,Excellent,No,Very high,8,5,Excellent,8,No
+40,Travel_Rarely,989,Research & Development,4,Below College,Medical,Very High,Female,46,5,Manager,High,Married,19033,6499,1,No,5,14,Excellent,No,Medium,21,2,Excellent,20,No
+55,Travel_Rarely,692,Research & Development,14,Masters,Medical,High,Male,61,5,Research Director,Medium,Single,18722,13339,8,No,5,11,Excellent,No,Very high,36,3,Excellent,24,No
+34,Travel_Frequently,1069,Research & Development,2,Below College,Life Sciences,Very High,Male,45,2,Manufacturing Director,High,Married,9547,14074,1,No,3,17,Excellent,No,High,10,2,Good,10,No
+51,Travel_Rarely,313,Research & Development,3,Bachelor,Medical,Very High,Female,98,4,Healthcare Representative,Medium,Single,13734,7192,3,No,3,18,Excellent,No,High,21,6,Excellent,7,No
+52,Travel_Rarely,699,Research & Development,1,Masters,Life Sciences,High,Male,65,5,Manager,High,Married,19999,5678,0,No,5,14,Excellent,No,Low,34,5,Excellent,33,No
+27,Travel_Rarely,894,Research & Development,9,Bachelor,Medical,Very High,Female,99,1,Research Scientist,Medium,Single,2279,11781,1,No,3,16,Excellent,No,Very high,7,2,Good,7,No
+35,Travel_Rarely,556,Research & Development,23,College,Life Sciences,Medium,Male,50,2,Manufacturing Director,High,Married,5916,15497,3,Yes,15,13,Excellent,No,Low,8,1,Excellent,1,Yes
+43,Non-Travel,1344,Research & Development,7,Bachelor,Medical,Very High,Male,37,1,Research Scientist,Very high,Divorced,2089,5228,4,No,5,14,Excellent,No,Very high,7,3,Outstanding,5,No
+45,Non-Travel,1195,Research & Development,2,College,Medical,Low,Male,65,4,Manager,Very high,Married,16792,20462,9,No,4,23,Outstanding,No,Very high,22,1,Excellent,20,No
+37,Travel_Rarely,290,Research & Development,21,Bachelor,Life Sciences,Medium,Male,65,1,Research Scientist,Low,Married,3564,22977,1,Yes,15,12,Excellent,No,Low,8,3,Good,8,No
+35,Travel_Frequently,138,Research & Development,2,Bachelor,Medical,Medium,Female,37,2,Laboratory Technician,Medium,Single,4425,15986,5,No,5,11,Excellent,No,Very high,10,5,Excellent,6,No
+42,Non-Travel,926,Research & Development,21,College,Medical,High,Female,36,2,Manufacturing Director,High,Divorced,5265,16439,2,No,5,16,Excellent,No,Medium,11,5,Excellent,5,No
+38,Travel_Rarely,1261,Research & Development,2,Masters,Life Sciences,Very High,Male,88,2,Manufacturing Director,High,Married,6553,7259,9,No,3,14,Excellent,No,Medium,14,3,Excellent,1,No
+38,Travel_Rarely,1084,Research & Development,29,Bachelor,Technical Degree,Very High,Male,54,2,Manufacturing Director,Very high,Married,6261,4185,3,No,4,18,Excellent,No,Low,9,3,Poor,7,No
